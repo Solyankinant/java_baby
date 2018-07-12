@@ -10,8 +10,6 @@ public class TestClass {
         hello("user");
         hello("Alexei");
 
-        System.out.println("Hello world");
-
         double l = 5;
         System.out.println("Площадь квадрата со стороной " + l + " = " + area(l));
 
