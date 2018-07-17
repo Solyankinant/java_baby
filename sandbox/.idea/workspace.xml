@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c6cde8e-eb27-4b04-aa40-164b1c5f72a3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/ru/stqa/pft/sandbox/Rectangle.class" afterPath="$PROJECT_DIR$/build/classes/main/ru/stqa/pft/sandbox/Rectangle.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/ru/stqa/pft/sandbox/Square.class" afterPath="$PROJECT_DIR$/build/classes/main/ru/stqa/pft/sandbox/Square.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/ru/stqa/pft/sandbox/TestClass.class" afterPath="$PROJECT_DIR$/build/classes/main/ru/stqa/pft/sandbox/TestClass.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/stqa/pft/sandbox/TestClass.java" afterPath="$PROJECT_DIR$/src/main/java/ru/stqa/pft/sandbox/TestClass.java" />
-    </list>
+    <list default="true" id="5c6cde8e-eb27-4b04-aa40-164b1c5f72a3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/../addressbook-web-tests/target/" />
@@ -34,21 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="GroupCreationTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="481">
+              <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2177#2178#0" expanded="true" />
@@ -599,8 +584,8 @@
     <history-entry file="GroupCreationTest_GroupCreationTest - 2018.07.16 at 15h 09m 17s.xml">
       <configuration name="GroupCreationTest.GroupCreationTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SquareTests - 2018.07.16 at 11h 36m 45s.xml">
-      <configuration name="SquareTests" configurationId="TestNG" />
+    <history-entry file="GroupCreationTest_GroupCreationTest - 2018.07.17 at 10h 34m 48s.xml">
+      <configuration name="GroupCreationTest.GroupCreationTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="SquareTests - 2018.07.16 at 11h 37m 33s.xml">
       <configuration name="SquareTests" configurationId="TestNG" />
@@ -711,8 +696,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../addressbook-web-tests/src/test/java/ru/stqa/pft/addressbook/GroupCreationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        <state relative-caret-position="481">
+          <caret line="38" column="54" lean-forward="true" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2177#2178#0" expanded="true" />
