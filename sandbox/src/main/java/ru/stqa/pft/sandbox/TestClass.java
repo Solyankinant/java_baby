@@ -1,6 +1,5 @@
 package ru.stqa.pft.sandbox;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
 
 public class TestClass {
 
@@ -21,10 +20,4 @@ public class TestClass {
     public static void hello(String somebody){
         System.out.println("Hello," + somebody + "!");
     }
-
-
-
-
-
-
 }
